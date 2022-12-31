@@ -3,7 +3,7 @@
 This is a single webpage that utilizes github API to pull the github followers according to username provided.
 
 ## Screenshot
-![Alt text](/public/imgs/home.png?raw=true "Home page")
+![Alt text](/src/assets/images/home.png?raw=true "Home page")
 
 ## How to Install and Run Pagination
 For contribution to this you can fork or clone it then run npm  i to install  dependencies.
